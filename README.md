@@ -13,6 +13,7 @@ We have created a comprehensive project plan covering the Planning, Design, Deve
 
 ## Part 3: Reflection & Learnings
 Our team documented the challenges we faced (from environment setup to code adaptation) and what we learned about collaboration on GitHub.
+
 👉 **[Click here to view our Localization Project Plan:  ]**
 
 ## Team Members
